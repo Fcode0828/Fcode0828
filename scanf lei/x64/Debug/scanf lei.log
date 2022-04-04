@@ -1,0 +1,6 @@
+﻿  game.c
+C:\Users\凡申奥\Desktop\CODE\scanf lei\game.c(60,39): warning C4028: 形参 2 与声明不同
+C:\Users\凡申奥\Desktop\CODE\scanf lei\game.c(60,68): warning C4028: 形参 4 与声明不同
+  test.c
+  正在生成代码...
+  scanf lei.vcxproj -> C:\Users\凡申奥\Desktop\CODE\scanf lei\x64\Debug\scanf lei.exe
